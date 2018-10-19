@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free sftware distributed under the GPL.
+Git is a free sftware distributed under the GPL.
 Git has mutable index called stage.
 Git tracks changes of files.
 ????
